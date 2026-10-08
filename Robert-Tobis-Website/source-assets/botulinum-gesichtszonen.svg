@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Gesichtszonen für Botulinumtoxin</title>
+  <desc id="desc">Natürliches frontales Porträt mit kleinen korallfarbenen Orientierungspunkten und einer seitlichen Legende möglicher Behandlungsbereiche.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fcfe"/>
+      <stop offset="1" stop-color="#dfeff6"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#fffdf9"/>
+      <stop offset="1" stop-color="#f2e8df"/>
+    </linearGradient>
+    <clipPath id="portraitClip"><rect x="38" y="28" width="704" height="824" rx="28"/></clipPath>
+    <style>
+      .point{fill:#d65b67;stroke:#fff;stroke-width:2.4}
+      .badge{fill:#08324b;stroke:#fff;stroke-width:3}
+      .num{fill:#fff;font-family:Arial,sans-serif;font-size:18px;font-weight:700;text-anchor:middle;dominant-baseline:central}
+    </style>
+  </defs>
+  <rect width="1200" height="900" rx="36" fill="none"/>
+  <rect x="38" y="28" width="704" height="824" rx="28" fill="none" stroke="#b8d8e6" stroke-width="2"/>
+  <rect x="38" y="792" width="704" height="60" fill="#e8f4f8" fill-opacity=".9" clip-path="url(#portraitClip)"/>
+
+  <g aria-label="Beispielhafte Orientierungspunkte">
+    <circle class="point" cx="320" cy="220" r="5"/><circle class="point" cx="350" cy="210" r="5"/><circle class="point" cx="380" cy="206" r="5"/><circle class="point" cx="410" cy="210" r="5"/><circle class="point" cx="440" cy="220" r="5"/>
+    <circle class="point" cx="345" cy="302" r="5"/><circle class="point" cx="365" cy="314" r="5"/><circle class="point" cx="380" cy="336" r="5"/><circle class="point" cx="395" cy="314" r="5"/><circle class="point" cx="415" cy="302" r="5"/>
+    <circle class="point" cx="228" cy="340" r="5"/><circle class="point" cx="218" cy="356" r="5"/><circle class="point" cx="228" cy="372" r="5"/>
+    <circle class="point" cx="532" cy="340" r="5"/><circle class="point" cx="542" cy="356" r="5"/><circle class="point" cx="532" cy="372" r="5"/>
+    <circle class="point" cx="325" cy="310" r="5"/><circle class="point" cx="450" cy="310" r="5"/>
+    <circle class="point" cx="360" cy="412" r="5"/><circle class="point" cx="400" cy="412" r="5"/>
+    <circle class="point" cx="338" cy="454" r="5"/><circle class="point" cx="422" cy="454" r="5"/>
+    <circle class="point" cx="350" cy="500" r="5"/><circle class="point" cx="370" cy="505" r="5"/><circle class="point" cx="390" cy="505" r="5"/><circle class="point" cx="410" cy="500" r="5"/>
+    <circle class="point" cx="350" cy="475" r="5"/><circle class="point" cx="370" cy="468" r="5"/><circle class="point" cx="390" cy="468" r="5"/><circle class="point" cx="410" cy="475" r="5"/>
+    <circle class="point" cx="310" cy="522" r="5"/><circle class="point" cx="450" cy="522" r="5"/>
+    <circle class="point" cx="360" cy="575" r="5"/><circle class="point" cx="400" cy="575" r="5"/>
+    <circle class="point" cx="275" cy="515" r="5"/><circle class="point" cx="290" cy="550" r="5"/><circle class="point" cx="305" cy="580" r="5"/>
+    <circle class="point" cx="485" cy="515" r="5"/><circle class="point" cx="470" cy="550" r="5"/><circle class="point" cx="455" cy="580" r="5"/>
+  </g>
+
+  <text x="380" y="840" fill="#54788b" font-family="Arial,sans-serif" font-size="14" text-anchor="middle" letter-spacing="1.5">ORIENTIERUNGSPUNKTE · KEINE BEHANDLUNGSANLEITUNG</text>
+
+  <rect x="785" y="40" width="375" height="820" rx="28" fill="#ffffff" fill-opacity=".9" stroke="#b8d8e6" stroke-width="2"/>
+  <text x="825" y="96" fill="#23799f" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">BOTULINUMTOXIN</text>
+  <text x="825" y="137" fill="#0c3149" font-family="Georgia,serif" font-size="30">Mögliche Gesichtszonen</text>
+  <path d="M825 158h295" stroke="#d2e4eb" stroke-width="2"/>
+  <g font-family="Arial,sans-serif">
+    <g transform="translate(825 190)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">1</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Stirnfalten</text><text x="48" y="32" fill="#607787" font-size="12">Mimische Querlinien der Stirn</text></g>
+    <g transform="translate(825 248)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">2</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Zornesfalte</text><text x="48" y="32" fill="#607787" font-size="12">Glabellaregion</text></g>
+    <g transform="translate(825 306)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">3</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Krähenfüße</text><text x="48" y="32" fill="#607787" font-size="12">Seitliche Augenregion</text></g>
+    <g transform="translate(825 364)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">4</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Augenbrauenanhebung</text><text x="48" y="32" fill="#607787" font-size="12">Laterale Augenbrauenregion</text></g>
+    <g transform="translate(825 422)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">5</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Bunny Lines</text><text x="48" y="32" fill="#607787" font-size="12">Mimische Linien am Nasenrücken</text></g>
+    <g transform="translate(825 480)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">6</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Gummy Smile</text><text x="48" y="32" fill="#607787" font-size="12">Region neben dem Nasenflügel</text></g>
+    <g transform="translate(825 538)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">7</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Lip Flip</text><text x="48" y="32" fill="#607787" font-size="12">Oberer Lippenrand</text></g>
+    <g transform="translate(825 596)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">8</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Raucherfältchen</text><text x="48" y="32" fill="#607787" font-size="12">Periorale Oberlippenregion</text></g>
+    <g transform="translate(825 654)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="14">9</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Mundwinkel</text><text x="48" y="32" fill="#607787" font-size="12">Region der Mundwinkelsenker</text></g>
+    <g transform="translate(825 712)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="13">10</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Kinnfältchen</text><text x="48" y="32" fill="#607787" font-size="12">Mentale Kinnregion</text></g>
+    <g transform="translate(825 770)"><circle class="badge" cx="16" cy="16" r="16"/><text class="num" x="16" y="16" font-size="13">11</text><text x="48" y="13" fill="#0c3149" font-size="17" font-weight="700">Masseter</text><text x="48" y="32" fill="#607787" font-size="12">Seitliche Kaumuskelregion</text></g>
+  </g>
+  <circle cx="833" cy="824" r="5" class="point"/>
+  <text x="849" y="828" fill="#607787" font-family="Arial,sans-serif" font-size="10.5">Korallfarbene Punkte: beispielhafte Orientierung</text>
+  <text x="825" y="847" fill="#607787" font-family="Arial,sans-serif" font-size="10.5">Auswahl, Anzahl, Dosis und Lage werden individuell festgelegt.</text>
+</svg>
