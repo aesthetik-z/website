@@ -174,7 +174,7 @@ document.querySelectorAll("dialog").forEach(dialog => {
   });
   dialog.addEventListener("pointercancel", () => backdropPointerDown.delete(dialog));
 });
-
+/*
 const form = document.querySelector("#contact-form");
 const startedAtField = form?.querySelector('[name="startedAt"]');
 if (startedAtField) startedAtField.value = String(Date.now());
@@ -210,7 +210,7 @@ form?.addEventListener("submit", async event => {
     submitButton.removeAttribute("aria-busy");
   }
 });
-
+*/
 const legalDialog = document.querySelector("#legal-dialog");
 const legalContent = {
   Impressum: `
